@@ -1,0 +1,17 @@
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+.idea/
+target/
+out/
+build/
+target/
+.vscode/
