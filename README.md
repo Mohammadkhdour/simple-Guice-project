@@ -18,7 +18,7 @@ This project demonstrates a basic usage of Google Guice in a Java application. I
 4. **Configure Guice module**
 	- Write `HelloWorldModule` to bind the interface to its implementation.
 5. **Write the application entry point**
-	- Implement `MAin` to use Guice for dependency injection and run the service.
+	- Implement `Main` to use Guice for dependency injection and run the service.
 6. **Test the application**
 	- Write and run tests (e.g., `MainTest`) to verify the setup.
 
